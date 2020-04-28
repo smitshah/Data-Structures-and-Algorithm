@@ -1,3 +1,5 @@
+# Difference between Stacks and Queues
+
 | Stack | Queues |
 | --------- | --------- |
 | Works on Last In First Out (LIFO) principle. | Works on First In First Out (FIFO) principle. |
