@@ -46,9 +46,9 @@ int main()
 			case 6:
 				printf(" six");break;		
 			case 7:
-				printf(" seven");	break;	
+				printf(" seven");break;	
 			case 8:
-				printf(" eight");	break;	
+				printf(" eight");break;	
 			case 9:
 				printf(" nine");break;	
 			case 10:
@@ -57,10 +57,10 @@ int main()
 				printf("eleven");break;	
 			case 12:
 				printf("twelve");break;
-        	case 13:
+        		case 13:
 				printf("thirteen");break;		
 			case 14:
-				printf("fourteen");
+				printf("fourteen");break;
 			case 15:
 				printf("fifteen");break;	
 			case 16:
@@ -89,9 +89,9 @@ int main()
 			case 60:
 				printf("sixty");break;		
 			case 70:
-				printf("seventy");	break;	
+				printf("seventy");break;	
 			case 80:
-				printf("eighty");	break;	
+				printf("eighty");break;	
 			case 90:
 				printf("ninety");break;		
 		}
@@ -110,9 +110,9 @@ int main()
 			case 6:
 				printf(" six");break;		
 			case 7:
-				printf(" seven");	break;	
+				printf(" seven");break;	
 			case 8:
-				printf(" eight");	break;	
+				printf(" eight");break;	
 			case 9:
 				printf(" nine");break;		
 		}
